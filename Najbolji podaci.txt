@@ -1,0 +1,46 @@
+Top 10 linija prema Accuracy:
+1. Accuracy: 0.6053 | Model: Logistic Regression, Features: ['B365A', 'Season', 'Domacin -5 utakmica'], Accuracy: 0.6053, Spearman: 0.9609
+2. Accuracy: 0.6053 | Model: Logistic Regression, Features: ['B365A', 'Domacin -4 utakmica', 'Gost -1 utakmica'], Accuracy: 0.6053, Spearman: 0.9639
+3. Accuracy: 0.6 | Model: SVC, Features: ['AwayTeam', 'B365H', 'Gost -5 utakmica'], Accuracy: 0.6000, Spearman: 0.9398
+4. Accuracy: 0.6 | Model: SVC, Features: ['AwayTeam', 'B365H', 'Forma Gosta Nova'], Accuracy: 0.6000, Spearman: 0.9534
+5. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365H', 'B365A', 'Month'], Accuracy: 0.6000, Spearman: 0.9774
+6. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365H', 'B365A', 'Novi u Ligi Gost'], Accuracy: 0.6000, Spearman: 0.9759
+7. Accuracy: 0.6 | Model: SVC, Features: ['B365H', 'Novi u Ligi Gost', 'Forma Gosta Nova'], Accuracy: 0.6000, Spearman: 0.9805
+8. Accuracy: 0.6 | Model: SVC, Features: ['B365H', 'Domacin -5 utakmica', 'Forma Gosta Nova'], Accuracy: 0.6000, Spearman: 0.9759
+9. Accuracy: 0.6 | Model: SVC, Features: ['B365D', 'B365A', 'Domacin -5 utakmica'], Accuracy: 0.6000, Spearman: 0.9714
+10. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365A', 'Year', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9669
+11. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365A', 'Novi u Ligi Gost', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9143
+12. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Novi u Ligi Gost', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9579
+13. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365A', 'Forma Domacina Numericki', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9729
+14. Accuracy: 0.6 | Model: Logistic Regression, Features: ['B365A', 'Otezana Forma Domacina', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9669
+15. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Domacin -1 utakmica', 'Gost -1 utakmica'], Accuracy: 0.6000, Spearman: 0.9699
+16. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Domacin -1 utakmica', 'Forma Gosta Nova'], Accuracy: 0.6000, Spearman: 0.9639
+17. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Gost -1 utakmica', 'Gost -2 utakmica'], Accuracy: 0.6000, Spearman: 0.9609
+18. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Gost -1 utakmica', 'Forma Gosta Nova'], Accuracy: 0.6000, Spearman: 0.9714
+19. Accuracy: 0.6 | Model: SVC, Features: ['B365A', 'Gost -2 utakmica', 'Forma Domacina Nova'], Accuracy: 0.6000, Spearman: 0.9684
+20. Accuracy: 0.5974 | Model: SVC, Features: ['HomeTeam', 'B365D', 'B365A'], Accuracy: 0.5974, Spearman: 0.9774
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Top 10 linija prema Spearman:
+1. Spearman: 0.994 | Model: Logistic Regression, Features: ['B365H', 'Month', 'Novi u Ligi Domaci'], Accuracy: 0.5895, Spearman: 0.9940
+2. Spearman: 0.994 | Model: Logistic Regression, Features: ['B365H', 'Month', 'Domacin -2 utakmica'], Accuracy: 0.5842, Spearman: 0.9940
+3. Spearman: 0.9925 | Model: SVC, Features: ['Referee', 'B365H', 'Gost -1 utakmica'], Accuracy: 0.5842, Spearman: 0.9925
+4. Spearman: 0.9925 | Model: Logistic Regression, Features: ['B365H', 'Month', 'Dani od zadnjeg meca reset'], Accuracy: 0.5816, Spearman: 0.9925
+5. Spearman: 0.991 | Model: SVC, Features: ['Referee', 'B365H', 'Domacin -2 utakmica'], Accuracy: 0.5789, Spearman: 0.9910
+6. Spearman: 0.991 | Model: SVC, Features: ['Referee', 'B365H', 'Gost -2 utakmica'], Accuracy: 0.5842, Spearman: 0.9910
+7. Spearman: 0.991 | Model: SVC, Features: ['Referee', 'B365H', 'Gost -4 utakmica'], Accuracy: 0.5816, Spearman: 0.9910
+8. Spearman: 0.991 | Model: SVC, Features: ['Referee', 'B365H', 'Gost -5 utakmica'], Accuracy: 0.5816, Spearman: 0.9910
+9. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'B365D', 'Forma Gosta Numericki'], Accuracy: 0.5842, Spearman: 0.9910
+10. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Year', 'Domacin -2 utakmica'], Accuracy: 0.5868, Spearman: 0.9910
+11. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Year', 'Gost -1 utakmica'], Accuracy: 0.5868, Spearman: 0.9910
+12. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Month', 'Forma Domacina Numericki'], Accuracy: 0.5921, Spearman: 0.9910
+13. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Month', 'Forma Gosta Numericki'], Accuracy: 0.5895, Spearman: 0.9910
+14. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'Month', 'Forma Gosta Numericki'], Accuracy: 0.5842, Spearman: 0.9910
+15. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'Month', 'Domacin -2 utakmica'], Accuracy: 0.5789, Spearman: 0.9910
+16. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'Month', 'Gost -1 utakmica'], Accuracy: 0.5816, Spearman: 0.9910
+17. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'Month', 'Gost -3 utakmica'], Accuracy: 0.5816, Spearman: 0.9910
+18. Spearman: 0.991 | Model: SVC, Features: ['B365H', 'Season', 'Gost -1 utakmica'], Accuracy: 0.5868, Spearman: 0.9910
+19. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Novi u Ligi Gost', 'Domacin -2 utakmica'], Accuracy: 0.5895, Spearman: 0.9910
+20. Spearman: 0.991 | Model: Logistic Regression, Features: ['B365H', 'Novi u Ligi Gost', 'Gost -1 utakmica'], Accuracy: 0.5895, Spearman: 0.9910
